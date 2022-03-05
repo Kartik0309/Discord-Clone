@@ -10,6 +10,7 @@ function Message() {
             <h4>Kartik Chauhan
                 <span className="message_timestamp">Timestamp</span>
             </h4>
+            <p>This is a message</p>
         </div>
     </div>
   )
